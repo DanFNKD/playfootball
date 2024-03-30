@@ -109,6 +109,34 @@ nav {
     color: #ffffff;
 }
 
+/* Form */
+
+section {
+    margin: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.text-input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.alerts {
+    background-color: #023020;
+    border: #023020;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
 /* Footer */
 #social-media {
     text-align: center;
