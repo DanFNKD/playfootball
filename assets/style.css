@@ -111,29 +111,39 @@ nav {
 
 /* Form */
 
-section {
-    margin: 20px;
+#form-responsiveness {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #023020;
+    border: 10px;
 }
 
-p {
+h2 {
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 20px;
 }
 
+p {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
 .text-input {
-    width: 100%;
-    padding: 7px;
-    border: 1px solid;
-    border-radius: 5px;
-    box-sizing: border-box;
+    width: 50%;
+    color: #023020;
+    margin-bottom: 10px;
 }
 
 .alerts {
-    background-color: #023020;
-    border: #023020;
-    color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
     display: inline-block;
 }
 
