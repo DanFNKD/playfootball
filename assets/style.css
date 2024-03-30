@@ -11,7 +11,7 @@
 
 /* General styles */
 
-#logo a {
+a {
     text-decoration: none;
 }
 
@@ -39,6 +39,14 @@ p {
     position: relative;
 }
 
+/* Navbar styles */
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    justify-content: right;
+}
+
 /* Image and Text section */
 
 #image-text {
@@ -56,11 +64,6 @@ p {
 
 .text-container {
     flex: 1;
-}
-
-#main-image {
-    max-width: 100%;
-    height: auto;
 }
 
 
@@ -81,12 +84,6 @@ p {
 
 #where {
     display: flex;
-}
-
-#where > div {
-    flex:0 0 auto;
-    margin: 0;
-    margin: 0;
 }
 
 #where div {
