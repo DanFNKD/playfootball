@@ -42,9 +42,10 @@ p {
 /* Navbar styles */
 
 nav {
-    position: absolute;
     background-color: #ffffff;
-    justify-content: right;
+    color: #023020;
+    justify-content: flex-end;
+    width: fit-content;
 }
 
 /* Image and Text section */
@@ -65,7 +66,6 @@ nav {
 .text-container {
     flex: 1;
 }
-
 
 /* Where to play */
 
