@@ -48,6 +48,15 @@ nav {
     width: fit-content;
 }
 
+#menu {
+    list-style: none;
+    display: flex;
+}
+
+#menu li {
+    margin-right: 20px;
+}
+
 /* Image and Text section */
 
 #image-text {
