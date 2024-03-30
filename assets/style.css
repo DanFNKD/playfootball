@@ -16,7 +16,7 @@ body {
     font-family: 'Bebas Neue', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     color: #023020;
     font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 10px;
@@ -65,6 +65,9 @@ p {
     background-color: #023020;
 }
 
+#where h4 {
+    color: #ffffff;
+}
 
 #where p {
     color: #ffffff;
