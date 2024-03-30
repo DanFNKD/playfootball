@@ -21,3 +21,17 @@ h1 {
     font-family: 'Bebas Neue', sans-serif;
 }
 
+/* Footer */
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 150%;
+    padding: 5%;
+    color: #023020;
+}
