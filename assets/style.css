@@ -11,6 +11,10 @@
 
 /* General styles */
 
+#logo {
+    text-decoration: none;
+}
+
 body {
     color: #ffffff;
     font-family: 'Bebas Neue', sans-serif;
@@ -47,6 +51,7 @@ p {
 .box {
     flex: 0 0 auto;
     margin: 0;
+    width: 100%;
 }
 
 #where {
