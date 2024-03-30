@@ -35,6 +35,19 @@ p {
     position: relative;
 }
 
+/* Where to play */
+
+#where div {
+    border: 1px solid #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #023020;
+}
+
+#where p {
+    color: #ffffff;
+}
+
 /* Footer */
 #social-media {
     text-align: center;
