@@ -21,6 +21,12 @@ h1 {
     font-family: 'Bebas Neue', sans-serif;
 }
 
+#main-image {
+    height: 200px;
+    width: 100%;
+    position: relative;
+}
+
 /* Footer */
 #social-media {
     text-align: center;
