@@ -11,7 +11,7 @@
 
 /* General styles */
 
-#logo {
+#logo a {
     text-decoration: none;
 }
 
@@ -38,6 +38,31 @@ p {
     width: 100%;
     position: relative;
 }
+
+/* Image and Text section */
+
+#image-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image-container {
+    flex: 3;
+    margin-right: 10px;
+}
+
+.text-container {
+    flex: 1;
+}
+
+#main-image {
+    max-width: 100%;
+    height: auto;
+}
+
 
 /* Where to play */
 
