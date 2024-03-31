@@ -131,7 +131,6 @@ nav {
     color: #ffffff;
 }
 
-
 /* Footer */
 #social-media {
     text-align: center;
@@ -145,4 +144,25 @@ nav {
     font-size: 150%;
     padding: 5%;
     color: #023020;
+}
+
+@media screen and (max-width: 320px) {
+    
+    #form {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    #form h2 {
+        font-size: 1.1rem;
+    }
+
+    #form p {
+        font-size: 0.8rem;
+    }
+
+    #form input, button {
+        padding: 8px;
+    }
+    
 }
