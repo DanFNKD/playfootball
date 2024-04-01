@@ -24,12 +24,14 @@ h1, h2, h3, h4 {
     color: #023020;
     font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 10px;
+    padding: 5px;
 }
 
 p {
     color: #023020;
     font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 8px;
+    padding: 5px;
 }
 
 #main-image {
