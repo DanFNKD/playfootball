@@ -50,6 +50,10 @@ header {
     color: #023020;
 }
 
+i {
+    padding-left: 10px;
+}
+
 /* Navbar styles */
 
 nav {
