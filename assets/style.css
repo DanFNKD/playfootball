@@ -21,7 +21,12 @@ body {
     font-size: 18px;
 }
 
-h1, h2, h3, h4 {
+h1 {
+    color: #023020;
+    font-size: 2.5rem;
+}
+
+h2, h3, h4 {
     color: #023020;
     font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 10px;
@@ -37,9 +42,8 @@ p {
 
 #main-image {
     height: 200px;
-    justify-content: center;
     width: 100%;
-    position: relative;
+    object-fit: cover;
 }
 
 header {
@@ -98,25 +102,25 @@ nav {
 #image-text {
     display: flex;
     justify-content: center;
-    align-items: center;
+}
+
+#flex-container {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .image-container {
-    flex: 2;
+    flex: 0 0 auto;
     margin-right: 10px;
     margin-left: 5px;
-    height: 100%;
+    margin-bottom: 20px;
     border: 2px solid #023020;
     box-sizing: border-box;
     display: flex;
-    margin-bottom: 20px;
 }
 
 .text-container {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
+    flex: 1 1 auto;
 }
 
 /* Where to play */
@@ -246,7 +250,7 @@ iframe {
     /* General styles */
 
     body {
-        font-size: 30px;
+        font-size: 1.5rem;
     }
 
     /* Nav section */
@@ -266,6 +270,7 @@ iframe {
 
     #menu li {
         margin-right: 20px;
+        font-size: 2rem;
     }
 
     /* Benefits section */
@@ -281,6 +286,19 @@ iframe {
         padding: 0 5px;
     }
 
+    /* Youtube video section */
+
+    iframe {
+        width: 60%;
+        height: 600px;
+    }
+    
+    .iframe-container {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+    }
+
     /* Form section */
 
     #form {
@@ -290,7 +308,7 @@ iframe {
 
     #form button {
         padding: 10px 15px;
-        font-size: 30px;
+        font-size: 1.5rem;
     }
 
 }
