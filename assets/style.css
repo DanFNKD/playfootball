@@ -158,6 +158,19 @@ nav {
 
 /* Benefits section */
 
+#benefits-image {
+    width: 95%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    border: 2px solid #023020;
+    box-sizing: border-box;
+}
+
 iframe {
     border: 2px solid #023020;
     border-radius: 10px;
@@ -275,12 +288,21 @@ iframe {
 
     /* Benefits section */
 
+    .image-container {
+        width: 98%;
+        height: auto;
+    }
+
     #benefits {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
     }
 
+    #benefits-image {
+        width: 98%;
+    }
+   
     #physical, #mental {
         flex: 1 1 45%;
         padding: 0 5px;
