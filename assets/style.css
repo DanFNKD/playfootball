@@ -89,6 +89,7 @@ nav {
 #menu li a {
     display: block;
     text-decoration: none;
+    color: #023020;
 }
 
 /* Image and Text section */
@@ -213,8 +214,11 @@ iframe {
     color: #023020;
 }
 
+
 @media screen and (max-width: 320px) {
-    
+
+    /* Form */
+
     #form {
         width: 60%;
         margin: 0 auto;
@@ -232,4 +236,27 @@ iframe {
         padding: 8px;
     }
     
+}   
+
+/* Media query: tablets and larger (768px and up) */
+
+@media screen and (min-width: 768px) {
+
+    #nav-toggle {
+        display: none;
+    }
+
+    .nav-icon {
+        display: none;
+    }
+
+    #menu {
+        display: flex;
+        align-items: center;
+    }
+
+    #menu li {
+        margin-right: 20px;
+    }
+
 }
