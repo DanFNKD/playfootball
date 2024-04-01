@@ -64,6 +64,9 @@ i {
 nav {
     background-color: #ffffff;
     color: #023020;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #nav-toggle {
@@ -73,6 +76,7 @@ nav {
 .nav-icon {
     display: block;
     cursor: pointer;
+    margin-right: 10px;
 }
 
 #menu {
@@ -84,7 +88,8 @@ nav {
 
 #nav-toggle:checked ~ #menu {
     display: block;
-    justify-items: center;
+    justify-items: end;
+    margin-right: 20px;
 }
 
 #menu li {
@@ -184,6 +189,19 @@ iframe {
 }
 
 /* Form */
+
+#signup-image {
+    width: 95%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    border: 2px solid #023020;
+    box-sizing: border-box;
+}
 
 #form {
     border: 2px solid #023020;
@@ -324,11 +342,13 @@ iframe {
     /* Form section */
 
     #form {
+        width: 75%;
         max-width: 500px;
         margin-left: 5px;
+        font-size: 2rem;
     }
 
-    #form button {
+    #form button, #form input {
         padding: 10px 15px;
         font-size: 1.5rem;
     }
