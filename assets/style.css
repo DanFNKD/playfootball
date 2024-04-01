@@ -18,6 +18,7 @@ a {
 body {
     color: #ffffff;
     font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
 }
 
 h1, h2, h3, h4 {
@@ -114,8 +115,8 @@ nav {
 .text-container {
     flex: 1;
     display: flex;
-    justify-content: right;
-    align-items: right;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 /* Where to play */
@@ -242,6 +243,14 @@ iframe {
 
 @media screen and (min-width: 768px) {
 
+    /* General styles */
+
+    body {
+        font-size: 30px;
+    }
+
+    /* Nav section */
+
     #nav-toggle {
         display: none;
     }
@@ -257,6 +266,31 @@ iframe {
 
     #menu li {
         margin-right: 20px;
+    }
+
+    /* Benefits section */
+
+    #benefits {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    #physical, #mental {
+        flex: 1 1 45%;
+        padding: 0 5px;
+    }
+
+    /* Form section */
+
+    #form {
+        max-width: 500px;
+        margin-left: 5px;
+    }
+
+    #form button {
+        padding: 10px 15px;
+        font-size: 30px;
     }
 
 }
