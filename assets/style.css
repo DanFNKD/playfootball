@@ -154,18 +154,26 @@ iframe {
 
 #form {
     border: 2px solid #023020;
-    position: absolute;
-    z-index: 1;
-    padding: 15px;
+    padding: 10px;
     box-sizing: border-box;
+    background-color: #ffffff;
+    color: #023020;
+    max-width: 200px;
 }
 
 .text-input {
+    display: block;
     color: #023020;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    padding: 4px;
 }
 
 #form label {
     display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-top: 10px;
 }
 
 #form button {
