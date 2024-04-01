@@ -39,22 +39,49 @@ p {
     position: relative;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background-color: #ffffff;
+    color: #023020;
+}
+
 /* Navbar styles */
 
 nav {
     background-color: #ffffff;
     color: #023020;
-    justify-content: flex-end;
-    width: fit-content;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-icon {
+    display: block;
+    cursor: pointer;
 }
 
 #menu {
     list-style: none;
-    display: flex;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#nav-toggle:checked ~ #menu {
+    display: block;
 }
 
 #menu li {
-    margin-right: 20px;
+    display: block;
+}
+
+#menu li a {
+    display: block;
+    text-decoration: none;
 }
 
 /* Image and Text section */
