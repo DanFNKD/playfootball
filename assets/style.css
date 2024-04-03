@@ -216,7 +216,6 @@ iframe {
 
     #form {
         width: 60%;
-        margin: 0 auto;
     }
 
     #form h2 {
@@ -240,7 +239,7 @@ iframe {
     /* General styles */
 
     body {
-        font-size: 1.5rem;
+        font-size: 2rem;
         padding-left: 10px;
     }
 
@@ -309,25 +308,32 @@ iframe {
     }
 
     #form {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
         width: 75%;
         max-width: 500px;
-        font-size: 1.5rem;
+        font-size: 2rem;
         margin: 0 auto;
-        text-align: center;
+        text-align: left;
+        margin-top: 40px;
+        margin-bottom: 20px;
     }
 
     #form h2 {
-        font-size: 1.5rem;
+        font-size: 2rem;
+        text-align: center;
     }
 
     #form button, #form input {
-        padding: 10px 15px;
-        font-size: 1.5rem;
-        margin: 0 auto;
+        font-size: 2rem;
+        padding: 10px;
+        margin: 10px auto 0;
     }
 
     #form input {
         margin-bottom: 10px;
+        width: 100%;
     }
 
 }
