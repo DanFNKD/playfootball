@@ -87,6 +87,10 @@ nav {
     margin-right: 20px;
 }
 
+#nav-toggle:checked + label i {
+    display: none;
+}
+
 #menu li {
     display: block;
 }
