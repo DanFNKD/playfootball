@@ -1,5 +1,5 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Override default browser styles */
 
@@ -35,7 +35,8 @@ h1 {
 
 p {
     color: #023020;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
     margin-bottom: 8px;
     padding: 5px;
 }
