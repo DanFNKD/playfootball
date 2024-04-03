@@ -117,6 +117,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: stretch;
+    padding: 20px
 }
 
 .box {
@@ -239,7 +240,7 @@ iframe {
     /* General styles */
 
     body {
-        font-size: 2rem;
+        font-size: 1.75rem;
         padding-left: 10px;
     }
 
