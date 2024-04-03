@@ -118,11 +118,12 @@ nav {
 
 /* Where to play */
 
-.container, {
+.container {
     display: flex;
     flex-wrap: wrap;
     justify-content: stretch;
-    padding: 20px
+    padding: 10px
+    text-align: center;
 }
 
 .box {
@@ -150,13 +151,13 @@ nav {
     font-size: 0.7rem;
 }
 
-/* Benefits section */
+/* Benefits page */
 
 iframe {
     border: 2px solid #023020;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 0 10px;
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -166,6 +167,8 @@ iframe {
     height: 100%;
     padding-bottom: 20px;
 }
+
+/* Signup page */
 
 /* Form */
 
@@ -283,14 +286,49 @@ iframe {
         font-size: 2rem;
     }
 
-    /* Home section */
+    /* Home page */
 
     #home-image {
         width: 98%;
         height: 500px;
     }
 
-    /* Benefits section */
+    /* Where to play */
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: stretch;
+        padding: 10px
+        text-align: center;
+    }
+    
+    .box {
+        flex: 1 1 auto;
+    }
+    
+    #where {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    #where div {
+        border: 1px solid #ffffff;
+        padding: 20px;
+        background-color: #023020;
+    }
+    
+    #where h3 {
+        color: #ffffff;
+        font-size: 2rem;
+    }
+    
+    #where p {
+        color: #ffffff;
+        font-size: 1.3rem;
+    }
+
+    /* Benefits page */
 
     #benefits-image {
         width: 98%;
@@ -320,7 +358,7 @@ iframe {
         height: 100%;
     }
 
-    /* Form section */
+    /* Form page */
 
     #signup-image {
         width: 98%;
