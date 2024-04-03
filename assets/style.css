@@ -140,14 +140,14 @@ nav {
     background-color: #023020;
 }
 
-#where h4 {
+#where h3 {
     color: #ffffff;
     font-size: 1.1rem;
 }
 
 #where p {
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 0.7rem;
 }
 
 /* Benefits section */
@@ -156,6 +156,8 @@ iframe {
     border: 2px solid #023020;
     border-radius: 10px;
     box-shadow: 0 0 10px;
+    width: 100%;
+    height: 100%;
 }
 
 .iframe-container {
@@ -221,7 +223,15 @@ iframe {
     /* Form */
 
     #form {
-        width: 60%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        max-width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 
     #form h2 {
