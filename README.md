@@ -77,17 +77,17 @@ My objective was to create a site that was minimalistic, clean and had high read
 
 The Play Football website is divided into three sections: header, body and footer. The navigation in the header uses an icon from 768 pixels and down.
 
-### Colors
+#### Colors
 
 There are two colors used throughout the website, white (#ffffff) and dark green (#023020). The green was inspired by the color of a football pitch and using a dark shade increased user readability.
 
-### Typography
+#### Typography
 
 The [Google Font Bebas Neue] (https://fonts.google.com/specimen/Bebas+Neue?query=bebas+neue) was chosen as the font for the header elements with a fallback of Sans-Serif.
 
 The [Google Font Montserrat] (https://fonts.google.com/specimen/Montserrat?query=montserrat) was chosen as the font for paragraph elements with a fallback font of Sans-Serif.
 
-### Images
+#### Images
 
 Images have been chosen in accordance with the color and content. The purpose of the website is to inspire and motivate.
 
@@ -95,19 +95,18 @@ Images have been chosen in accordance with the color and content. The purpose of
 
 The Play Football webste is a three-age website consisting of the following sections:
 
-- Header (Logo & Navigation Bar)
-- Home Page Hero
-- Home Information
-- Footer
-- Where to Play Section
-- Benefits
-- Youtube video
-- Signup Information
-- Form
+- Header Section (Logo & Navigation Bar)
+- Home Page Image
+- Home Page Section
+- Benefits Page Image
+- Benefits Page Section
+- Signup Page Image
+- Signup Page Section
+- Footer Section
 
 ### Existing Features
 
-#### Header (Logo & Navigation Bar)
+#### Header Section (Logo & Navigation Bar)
 
 - The Header consists of of the text "Play Football" aligned to the left and a Navigation Bar which is aligned to the right.
 - Featured on all three pages, the Navigation Bar includes links to the Home Page, Benefits Page and Signup Page.
@@ -117,51 +116,54 @@ The Play Football webste is a three-age website consisting of the following sect
 ![Header and Navigation 768px and down, closed] (./assets/readme-images/navigationbar-768px.png)
 ![Header and Navigation 768px and down, open] (./assets/readme-images/navigationbar-768px-open.png)
 
-Navigation Bar
+#### Home Page Image
 
-Featured on all three pages, this responsive navigation bar includes the logo and links to the home, benefits and signup pages. It allows users to easily navigate from page to page without using the 'back' button.
+- The Home Page Image was selected to show that Football can be enjoyed by simply stepping foot on a grass surface. The image is isolated and conveys the feeling that many people wanting to participate but not knowing how may be feeling.
 
-Home page image
+![Home Page Image] (.assets.readme-images/homepageimage.png)
 
-The image of a football pitch reaffirms the mission of the site, showing the pitch from an aerial view gives perspective, attempting to communicate the scale of the game.
+#### Home Page Section
 
-Introduction section
+- The opening provides an introduction to the sport of Football, highlighting the sheer scale of its popularity and the reasons for participation.
+- It then links to the main objective of the site, encouraging people to participate in a session or sign up to join the community.
+- A table is included to provide an overview of the existing sessions available at Play Football and is designed responsively for mobile devices.
 
-The copy on the page provides an overview of the sport, before leading on to the core function of the site, using positive language throughout to encourage participation.
+![Home Page Section] (.assets.readme-images/homepagesection.png)
 
-Sessions section
+#### Benefits Page Image
 
-This section provides an overview of the location, match types, timings and durations of the sessions.
+- The image shows a large number of fans attending a Football match. This compliments the content on the page which highlights the mental benefits of participation alongside the physical ones. It aims to continue the theme of scale referenced on the Home Page.
 
-Footer section
+![Benefits Page Image] (.assets.readme-images/benefitsimage.png)
 
-This section includes links to the various Play Football social media pages. They open in a new tab to allow easy navigation and ensure that the user doesn't lose their position on the site.
-This is a valuable tool for the site as it allows users to view content, sign up and build interactions to facilitate growth for the site.
+#### Benefits Page Section
 
-Benefits Page
+- The core content on the page outlines the benefits of playing Football, both physical and mental.
+- Font Awesome icons are used to break up the text.
+- An inspirational video showcasing some emotive moments in Football was included to further entice people to participate.
+- The Youtube video is responsive and doesn't autoplay on any browser.
 
-Header image
+![Benefits Page Section] (.assets.readme-images/benefitssection.png)
+![Benefits Page Youtube Video] (.assets.readme-images/benefitssectionyoutube.png)
 
-The image of a crowd attending a match aims to highlight the popularity of the game and social elements. 
+#### Signup Page Image
 
-Benefits section
+- The final image merges the concepts from the preceeding two images, showcasing people playing football on a grass surface surrounded by likeminded people in a social setting.
 
-A selection of physical and mental benefits are outlined to summarise the vast benefits of participating in football. Brief descriptions are used to maintain attention and icons are used to break up the copy. On larger screens, the physical benefits go on one side and the mental on the other, emphasising how the sport is good for both.
+![Signup Page Image] (.assets.readme-images/signupimage.png)
 
-Youtube video
+#### Sign Up Page Section
 
-An inspirational video has been added to the bottom of the page to demonstrate the emotional side of the sport. The use of music in the video is emotive and aims to further encourage participation.
+- Text included to serve as a call to action and encourage people to submit their data into the form.
+- Form designed to grab attention and increase sign up likelihood.
+- Each individual field was tested as well as a completed submission.
 
-Signup Page
+![Signup Page Section] (.assets.readme-images/signupsection.png)
+[Signup Form Validation] (.assets.readme-images/signupvalidationcomplete.png)
 
-Header image
+#### Footer Section
 
-The imagery returns to a football pitch and simply shows a ball and a goal, symbolising that wherever the user is on their journey, it is an individuals decision to get out there and get more involved in sport.
+- Footer links to X, Facebook, Youtube & Instagram included and validated.
 
-Copy
+![Footer Section] (.assets.readme-images/footer.png)
 
-There is a call to action encouraging users to sign up to a mailing list to receive contact when more sessions are available.
-
-Form
-
-The form is simple and captures name, contact and locational data.
