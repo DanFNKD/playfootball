@@ -1,15 +1,53 @@
-# play-football
-The Play Football website has been created to encourage people to start playing football in and around the London area. 
+# Play Football
+
+
+
+
+
+The website was created to give people across London the possibility to participate in football sessions. It aims to create a sense of community and encourage people of all abilities to play the beautiful game.
+
+The site contains a home page with three sections, a benefits page outlining some of the many reasons to participate and a contact page that allows visitors to sign up and receive alerts about new sessions in their area.
+
+A live version of the project can be found here - 
+
+# Table of Content
+
++ UX
+    + User Demographic
+    + User Stories
+    + User Goals
+    + Requirements
+    + Design
+        + Color palette
+        + Typography
+        + Images
+    + Features
+        + Header Section with Logo and Navigation Bar
+        + Home Page image
+        + Home Page
+        + Benefits Page
+        + Youtube Video
+        + Signup Page
+        + Footer Section
+    + Technologies Used
+    + Testing
+        + Validator Testing
+        + Unfixed Bugs
+    + Development and Deployment
+    + Content
+    + Media
+    + Credits
+
 
 # features
 
 Home Page
 
-Navigation bar
+Navigation Bar
 
 Featured on all three pages, this responsive navigation bar includes the logo and links to the home, benefits and signup pages. It allows users to easily navigate from page to page without using the 'back' button.
 
-Landing page image
+Home page image
 
 The image of a football pitch reaffirms the mission of the site, showing the pitch from an aerial view gives perspective, attempting to communicate the scale of the game.
 
