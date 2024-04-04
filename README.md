@@ -38,8 +38,61 @@ A live version of the project can be found here -
     + Media
     + Credits
 
+## UX
 
-# features
+### User Demographic
+
+This website was created for:
+
+    - People that played Football in their youth and want to reconnect with the sport.
+    - People that have never played Football before and want to start doing so.
+    - People that want to learn more about the sport's benefits.
+
+### User Stories
+
+
+### New Users
+
+    - As a new user I want to learn more about where I can play Football in the London area
+    - As a new user I want to be motivated to start/resume playing
+
+### User Goals
+
+    - Find out about Play Football sessions
+    - Understand more about Football
+    - Understand more about the physical and mental benefits of playing
+    - Join a likeminded community
+    - Receive updates on new sessions that are easier/more convenient for me to attend 
+
+### Requirements
+
+A static responsive website that incorporates the technologies that I have learned so far containing some of the more advanced functionality. The development process needs to be well documented through a version control system such as GitHub.
+
+Required technologies: HTML & CSS
+
+### Design
+
+As this was my first project, the design has been influence by the "Love Running" project as well as my past experience with website design.
+
+My objective was to create a site that was minimalistic, clean and had high readability. There isn't a targetted demographic therefore ensuring that the website felt agnostic was key.
+
+The Play Football website is divided into three sections: header, body and footer. The navigation in the header uses an icon from 768 pixels and down.
+
+### Colors
+
+There are two colors used throughout the website, white (#ffffff) and dark green (#023020). The green was inspired by the color of a football pitch and using a dark shade increased user readability.
+
+### Typography
+
+The [Google Font Bebas Neue] (https://fonts.google.com/specimen/Bebas+Neue?query=bebas+neue) was chosen as the font for the header elements with a fallback of Sans-Serif.
+
+The [Google Font Montserrat] (https://fonts.google.com/specimen/Montserrat?query=montserrat) was chosen as the font for paragraph elements with a fallback font of Sans-Serif.
+
+### Images
+
+Images have been chosen in accordance with the color and content. The purpose of the website is to inspire and motivate.
+
+# Features
 
 Home Page
 
