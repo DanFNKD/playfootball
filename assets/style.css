@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Override default browser styles */
-
 * {
     padding: 0;
     margin: 0;
@@ -10,7 +9,6 @@
 }
 
 /* General styles */
-
 body {
     color: #ffffff;
     font-family: 'Bebas Neue', sans-serif;
@@ -22,7 +20,7 @@ a {
     text-decoration: none;
 }
 
-h1, h2, h3,h4 {
+h1, h2, h3, h4 {
     color: #023020;
     font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 5px;
@@ -55,7 +53,6 @@ i {
 }
 
 /* Navbar styles */
-
 nav {
     background-color: #ffffff;
     color: #023020;
@@ -102,7 +99,6 @@ nav {
 }
 
 /* Image and Text section */
-
 #home-image, #benefits-image, #signup-image {
     width: 95%;
     height: auto;
@@ -117,12 +113,11 @@ nav {
 }
 
 /* Where to play */
-
 .container {
     display: flex;
     flex-wrap: wrap;
     justify-content: stretch;
-    padding: 10px
+    padding: 10px;
     text-align: center;
 }
 
@@ -152,7 +147,6 @@ nav {
 }
 
 /* Benefits page */
-
 iframe {
     border: 2px solid #023020;
     border-radius: 5px;
@@ -169,9 +163,7 @@ iframe {
 }
 
 /* Signup page */
-
 /* Form */
-
 #form {
     border: 1px solid #023020;
     padding: 10px;
@@ -205,7 +197,6 @@ iframe {
 }
 
 /* Footer */
-
 #social-media {
     text-align: center;
     padding: 20px 0;
@@ -220,11 +211,9 @@ iframe {
     color: #023020;
 }
 
-
+/* Media query: Mobiles (320px and down) */
 @media screen and (max-width: 320px) {
-
     /* Form */
-
     #form {
         display: flex;
         flex-direction: column;
@@ -248,15 +237,11 @@ iframe {
     #form input, button {
         padding: 8px;
     }
-    
 }   
 
 /* Media query: tablets and larger (768px and up) */
-
 @media screen and (min-width: 768px) {
-
     /* General styles */
-
     body {
         font-size: 1.75rem;
         padding-left: 10px;
@@ -267,7 +252,6 @@ iframe {
     }
 
     /* Nav section */
-
     #nav-toggle {
         display: none;
     }
@@ -287,14 +271,12 @@ iframe {
     }
 
     /* Home page */
-
     #home-image {
         width: 98%;
         height: 500px;
     }
 
     /* Where to play */
-
     .container {
         display: flex;
         flex-wrap: wrap;
@@ -328,14 +310,12 @@ iframe {
     }
 
     /* Benefits page */
-
     #benefits-image {
         width: 98%;
         height: 500px;
     }
 
     /* Youtube video section */
-
     #youtube {
         padding-top: 20px;
         text-align: center;
@@ -353,7 +333,6 @@ iframe {
     }
 
     /* Form page */
-
     #signup-image {
         width: 98%;
         height: 500px;
@@ -387,5 +366,4 @@ iframe {
         margin-bottom: 10px;
         width: 100%;
     }
-
 }
