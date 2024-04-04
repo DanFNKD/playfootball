@@ -8,7 +8,7 @@ The website was created to give people across London the possibility to particip
 
 The site contains a home page with three sections, a benefits page outlining some of the many reasons to participate and a contact page that allows visitors to sign up and receive alerts about new sessions in their area.
 
-A live version of the project can be found here - 
+A live version of the project can be found here - https://danfnkd.github.io/playfootball/
 
 # Table of Content
 
@@ -33,7 +33,7 @@ A live version of the project can be found here -
     + Testing
         + Validator Testing
         + Unfixed Bugs
-    + Development and Deployment
+    + Deployment
     + Content
     + Media
     + Credits
@@ -166,4 +166,73 @@ The Play Football webste is a three-age website consisting of the following sect
 - Footer links to X, Facebook, Youtube & Instagram included and validated.
 
 ![Footer Section] (.assets.readme-images/footer.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Testing
+
+Testing was conducted using Google Chrome and Safari (laptop and mobile). Testing different devices and screen resolutions was completed via Google DevTools.
+
+Main issues discovered:
+
+1. Initial Home Page image was blurry.
+- Replaced with a higher resolution image.
+2. Youtube video was autoplaying.
+- Added code to stop this behaviour.
+3. Menu not working properly on smaller screens.
+- Added a football icon to be used on smaller screens and be consistent with the design.
+4. GitHub bug that prevented me from loading project with GitHub pages.
+- Contacted Code Institute Tutor Support for troubleshooting. Initially tried to manually remove code from the page but that didn't work. Code was copied across to a new repository resolving the issue.
+
+### Validator Testing
+
+- HTML
+    - No errors were returned when the code was passed through the official W3C Validator.
+-CSS
+    - No errors were returned when the code passed through the official Jigsaw Validator.
+
+### Unfixed Bugs
+
+- All of the bugs were fixed and added to the Testing section.
+
+## Deployment
+
+CodeAnywhere and GitPod were used as the IDE's for this project. Regular commits and pushes to GitHub were made for version control and to track development.
+
+The live version of the project was deployed to GitHub pages.
+
+Deployment process:
+
+1. Log into GitHub
+2. Find and load relevant GitHub repository
+3. Select "Settings"
+4. Click "Pages" in the Code and automation section
+5. Select "Main" as the branch and "/root" as the folder
+6. Click "Save"
+7. The "github-pages" link is now visible in the "Deployments" section on the repository
+
+A live version of the project can be found here - https://danfnkd.github.io/playfootball/
+
+## Content
+
+- Text for the benefits of Football was taken from:
+    - https://footballflick.com/blogs/news/how-football-can-improve-you-mental-health 
+    - https://www.pushdoctor.co.uk/exercise/the-health-benefits-of-playing-football 
+- Certain aspects of the design were inspired by the "Love Running" project, including the Table on Page 1 and the Footer.
+- The icons in the benefits section and footer section were taken from [Font Awesome] (https://fontawesome.com/)
+
+## Media
+
+- All of the images used in the project were taken from [Pexels] (https://www.pexels.com/)
+
+## Credits
+
+Martina Terlevic
+    - My Code Institute Mentor, thank you for your help with design and time management!
+
+Sean and Roo
+    - Tutors that helped me through the anomalous GitHub Pages issue!
 
