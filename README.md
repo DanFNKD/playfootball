@@ -1,6 +1,6 @@
 # Play Football
 
-![Responsive screenshot] (.assets/readme-images/responsiveness.png)
+![Responsive screenshot](.assets/readme-images/responsiveness.png)
 
 
 
