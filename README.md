@@ -50,7 +50,6 @@ This website was created for:
 
 ### User Stories
 
-
 ### New Users
 
     - As a new user I want to learn more about where I can play Football in the London area
@@ -94,7 +93,29 @@ Images have been chosen in accordance with the color and content. The purpose of
 
 ## Features
 
-Home Page
+The Play Football webste is a three-age website consisting of the following sections:
+
+- Header (Logo & Navigation Bar)
+- Home Page Hero
+- Home Information
+- Footer
+- Where to Play Section
+- Benefits
+- Youtube video
+- Signup Information
+- Form
+
+### Existing Features
+
+#### Header (Logo & Navigation Bar)
+
+- The Header consists of of the text "Play Football" aligned to the left and a Navigation Bar which is aligned to the right.
+- Featured on all three pages, the Navigation Bar includes links to the Home Page, Benefits Page and Signup Page.
+- The Header is designed responsively across device types.
+
+![Header and Navigation standard] (./assets/readme-images/navigationbar.png)
+![Header and Navigation 768px and down, closed] (./assets/readme-images/navigationbar-768px.png)
+![Header and Navigation 768px and down, open] (./assets/readme-images/navigationbar-768px-open.png)
 
 Navigation Bar
 
