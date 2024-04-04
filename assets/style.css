@@ -333,11 +333,6 @@ iframe {
         width: 98%;
         height: 500px;
     }
-   
-    #physical, #mental {
-        flex: 1 1 45%;
-        padding: 0 5px;
-    }
 
     /* Youtube video section */
 
