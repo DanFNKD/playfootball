@@ -52,8 +52,8 @@ This website was created for:
 
 ### New Users
 
-- As a new user I want to learn more about where I can play Football in the London area
-- As a new user I want to be motivated to start/resume playing
+- As a new user I want to learn more about where I can play Football in the London area.
+- As a new user I want to be motivated to start/resume playing.
 
 ### User Goals
 
@@ -141,14 +141,14 @@ The Play Football webste is a three-age website consisting of the following sect
 - The core content on the page outlines the benefits of playing Football, both physical and mental.
 - Font Awesome icons are used to break up the text.
 - An inspirational video showcasing some emotive moments in Football was included to further entice people to participate.
-- The Youtube video is responsive and doesn't autoplay on any browser.
+- The YouTube video is responsive and doesn't autoplay on any browser.
 
 ![Benefits Page Section](./assets/readme-images/benefitssection.png)
 ![Benefits Page Youtube Video](./assets/readme-images/benefitssectionyoutube.png)
 
 #### Signup Page Image
 
-- The final image merges the concepts from the preceeding two images, showcasing people playing football on a grass surface surrounded by likeminded people in a social setting.
+- The final image merges the concepts from the preceding two images, showcasing people playing football on a grass surface surrounded by likeminded people in a social setting.
 
 ![Signup Page Image](./assets/readme-images/signupimage.png)
 
@@ -180,11 +180,11 @@ Main issues discovered:
 
 1. Initial Home Page image was blurry.
 - Replaced with a higher resolution image.
-2. Youtube video was autoplaying.
+2. YouTube video was autoplaying.
 - Added code to stop this behaviour.
 3. Menu not working properly on smaller screens.
 - Added a football icon to be used on smaller screens and be consistent with the design.
-4. GitHub bug that prevented me from loading project with GitHub pages.
+4. GitHub bug that prevented me from loading project with GitHub Pages.
 - Contacted Code Institute Tutor Support for troubleshooting. Initially tried to manually remove code from the page but that didn't work. Code was copied across to a new repository resolving the issue.
 
 ### Validator Testing
@@ -202,7 +202,7 @@ Main issues discovered:
 
 CodeAnywhere and GitPod were used as the IDE's for this project. Regular commits and pushes to GitHub were made for version control and to track development.
 
-The live version of the project was deployed to GitHub pages.
+The live version of the project was deployed to GitHub Pages.
 
 Deployment process:
 
