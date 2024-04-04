@@ -120,7 +120,7 @@ The Play Football webste is a three-age website consisting of the following sect
 
 - The Home Page Image was selected to show that Football can be enjoyed by simply stepping foot on a grass surface. The image is isolated and conveys the feeling that many people wanting to participate but not knowing how may be feeling.
 
-![Home Page Image](./assets.readme-images/homepageimage.png)
+![Home Page Image](./assets/readme-images/homepageimage.png)
 
 #### Home Page Section
 
@@ -128,13 +128,13 @@ The Play Football webste is a three-age website consisting of the following sect
 - It then links to the main objective of the site, encouraging people to participate in a session or sign up to join the community.
 - A table is included to provide an overview of the existing sessions available at Play Football and is designed responsively for mobile devices.
 
-![Home Page Section](./assets.readme-images/homepagesection.png)
+![Home Page Section](./assets/readme-images/homepagesection.png)
 
 #### Benefits Page Image
 
 - The image shows a large number of fans attending a Football match. This compliments the content on the page which highlights the mental benefits of participation alongside the physical ones. It aims to continue the theme of scale referenced on the Home Page.
 
-![Benefits Page Image](./assets.readme-images/benefitsimage.png)
+![Benefits Page Image](./assets/readme-images/benefitsimage.png)
 
 #### Benefits Page Section
 
@@ -143,14 +143,14 @@ The Play Football webste is a three-age website consisting of the following sect
 - An inspirational video showcasing some emotive moments in Football was included to further entice people to participate.
 - The Youtube video is responsive and doesn't autoplay on any browser.
 
-![Benefits Page Section](./assets.readme-images/benefitssection.png)
-![Benefits Page Youtube Video](./assets.readme-images/benefitssectionyoutube.png)
+![Benefits Page Section](./assets/readme-images/benefitssection.png)
+![Benefits Page Youtube Video](./assets/readme-images/benefitssectionyoutube.png)
 
 #### Signup Page Image
 
 - The final image merges the concepts from the preceeding two images, showcasing people playing football on a grass surface surrounded by likeminded people in a social setting.
 
-![Signup Page Image](./assets.readme-images/signupimage.png)
+![Signup Page Image](./assets/readme-images/signupimage.png)
 
 #### Sign Up Page Section
 
@@ -158,14 +158,14 @@ The Play Football webste is a three-age website consisting of the following sect
 - Form designed to grab attention and increase sign up likelihood.
 - Each individual field was tested as well as a completed submission.
 
-![Signup Page Section](./assets.readme-images/signupsection.png)
-[Signup Form Validation](./assets.readme-images/signupvalidationcomplete.png)
+![Signup Page Section](./assets/readme-images/signupsection.png)
+[Signup Form Validation](./assets/readme-images/signupvalidationcomplete.png)
 
 #### Footer Section
 
 - Footer links to X, Facebook, Youtube & Instagram included and validated.
 
-![Footer Section](./assets.readme-images/footer.png)
+![Footer Section](./assets/readme-images/footer.png)
 
 ## Technologies Used
 
