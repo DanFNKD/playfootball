@@ -77,7 +77,7 @@ My objective was to create a site that was minimalistic, clean and had high read
 
 The Play Football website is divided into three sections: header, body and footer. The navigation in the header uses an icon from 768 pixels and down.
 
-#### Colors
+#### Colors
 
 There are two colors used throughout the website, white (#ffffff) and dark green (#023020). The green was inspired by the color of a football pitch and using a dark shade increased user readability.
 
@@ -159,7 +159,7 @@ The Play Football webste is a three-age website consisting of the following sect
 - Each individual field was tested as well as a completed submission.
 
 ![Signup Page Section](./assets/readme-images/signupsection.png)
-[Signup Form Validation](./assets/readme-images/signupvalidationcomplete.png)
+![Signup Form Validation](./assets/readme-images/signupvalidationcomplete.png)
 
 #### Footer Section
 
