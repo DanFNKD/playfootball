@@ -222,11 +222,11 @@ A live version of the project can be found here - https://danfnkd.github.io/play
     - https://footballflick.com/blogs/news/how-football-can-improve-you-mental-health 
     - https://www.pushdoctor.co.uk/exercise/the-health-benefits-of-playing-football 
 - Certain aspects of the design were inspired by the "Love Running" project, including the Table on Page 1 and the Footer.
-- The icons in the benefits section and footer section were taken from Font Awesome - https://fontawesome.com/
+- The icons in the benefits section and footer section were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
 
-- All of the images used in the project were taken from Pexels - https://www.pexels.com/
+- All of the images used in the project were taken from [Pexels](https://www.pexels.com/)
 
 ## Credits
 
