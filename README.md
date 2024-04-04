@@ -92,7 +92,7 @@ The [Google Font Montserrat] (https://fonts.google.com/specimen/Montserrat?query
 
 Images have been chosen in accordance with the color and content. The purpose of the website is to inspire and motivate.
 
-# Features
+## Features
 
 Home Page
 
