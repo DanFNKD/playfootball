@@ -83,9 +83,9 @@ There are two colors used throughout the website, white (#ffffff) and dark green
 
 #### Typography
 
-The Google Font Bebas Neue (https://fonts.google.com/specimen/Bebas+Neue?query=bebas+neue) was chosen as the font for the header elements with a fallback of Sans-Serif.
+The Google Font [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue?query=bebas+neue) was chosen as the font for the header elements with a fallback of Sans-Serif.
 
-The Google Font Montserrat (https://fonts.google.com/specimen/Montserrat?query=montserrat) was chosen as the font for paragraph elements with a fallback font of Sans-Serif.
+The Google Font [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat) was chosen as the font for paragraph elements with a fallback font of Sans-Serif.
 
 #### Images
 
@@ -214,7 +214,7 @@ Deployment process:
 6. Click "Save"
 7. The "github-pages" link is now visible in the "Deployments" section on the repository
 
-A live version of the project can be found here - https://danfnkd.github.io/playfootball/
+A live version of the project can be found here - https://danfnkd.github.io/playfootball/.
 
 ## Content
 
@@ -222,11 +222,11 @@ A live version of the project can be found here - https://danfnkd.github.io/play
     - https://footballflick.com/blogs/news/how-football-can-improve-you-mental-health 
     - https://www.pushdoctor.co.uk/exercise/the-health-benefits-of-playing-football 
 - Certain aspects of the design were inspired by the "Love Running" project, including the Table on Page 1 and the Footer.
-- The icons in the benefits section and footer section were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the benefits section and footer section were taken from [Font Awesome](https://fontawesome.com/).
 
 ## Media
 
-- All of the images used in the project were taken from [Pexels](https://www.pexels.com/)
+- All of the images used in the project were taken from [Pexels](https://www.pexels.com/).
 
 ## Credits
 
